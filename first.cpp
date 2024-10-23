@@ -74,11 +74,24 @@ init - used to create a new git repo
 1. initialize an existing directory as a Git repository
 git init
 
+2. if you create another repo in local systum 
 git remote add origin <-link->
+
+3.
 git remote -v (to verify remote)
-(to check branch)
+
+
+
+BRANCH
+
+1.
 git branch
+
+2.
 git branch -M main (to rename branch)
+
+
+3.
 git push origin main
 
 
